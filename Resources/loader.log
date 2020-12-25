@@ -1,0 +1,35 @@
+[2020.08.12-23.32.00] Loader initialized.
+[2020.08.12-23.32.00] [Connection] Connecting to URL: https://download.eac-cdn.com/api/v1/games/525/client/wow64/download/?uuid=4a56a076-4a8d-b8ac-7cdd-fdff6880a7b2
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.00] Download Progress: 0%.
+[2020.08.12-23.32.02] [Connection] Connect result: Couldn't connect to server (7) Response Code: 0 Destination IP: Unavailable
+[2020.08.12-23.32.02] Connection to the Content Distribution Network failed! Curl Code: 7.
+[2020.08.12-23.32.02] Falling back to a secondary CDN path.
+[2020.08.12-23.32.02] [Connection] Connecting to URL: https://download-alt.easyanticheat.net/api/v1/games/525/client/wow64/download/?uuid=3b735327-1249-7086-6c51-2218be493607
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] Download Progress: 0%.
+[2020.08.12-23.32.02] [Connection] Connect result: Couldn't connect to server (7) Response Code: 0 Destination IP: Unavailable
+[2020.08.12-23.32.02] Connection to the Content Distribution Network failed! Curl Code: 7.
